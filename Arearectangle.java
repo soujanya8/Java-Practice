@@ -12,8 +12,8 @@ public class Arearectangle{
         System.out.print("Enter the breadth of the Rectangle: ");
         breadth = scanner.nextDouble();
         
-        area = length*breadth;
-        System.out.println("Therefore Area of Rectangle: "+area);
+        area = length * breadth;
+        System.out.println("Therefore Area of Rectangle: "+area"cm^2");
         scanner.close();
 
     }
