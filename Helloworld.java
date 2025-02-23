@@ -26,9 +26,11 @@ public class Helloworld{
     x= 10;   
     System.out.println("$"+x);
     double y= 4.2;  //can store any number and return decimal number even if it is whole number
+    System.out.println(y);
     char grade = 'A';  
+    System.out.println(grade);
     boolean isStudent = true; //for true or false used in mostly if conditions
-
+    System.out.print(isStudent);
     String name="Suzy G";
     System.out.println("hello"+ name);
 
