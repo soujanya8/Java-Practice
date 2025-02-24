@@ -23,7 +23,7 @@ public class Compoundinterestcalc {
         double amount = principal*Math.pow(1+rate/timeCompounded, timeCompounded*years);
 
         System.out.printf("\n\n<---------Compund Interest Caluclator ----------->\n\n");
-        System.out.printf("Your compound interest will be : %.2f\n\n", amount);
+        System.out.printf("Your Amount after %d years will be : %.2f\n\n", years,amount);
 
         scanner.close();
     }
