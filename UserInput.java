@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Userinput{
+public class UserInput{
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
           //    scanner.nextLine(); // user is able to type a Input here
