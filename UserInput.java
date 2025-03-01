@@ -6,7 +6,7 @@ public class UserInput{
           //    scanner.nextLine(); // user is able to type a Input here
 
         System.out.print("Enter your name: ");
-        String name = scanner.next(); // It only reads the first String and ignores rest in the line
+       // String name = scanner.next(); // It only reads the first String and ignores rest in the line
         
         //here there is a Common issue with scanner so need to add the buffer input
         scanner.nextLine();
