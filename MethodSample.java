@@ -58,6 +58,4 @@ public class MethodSample {
             return false;
         }
     }
-
-    
 }
