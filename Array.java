@@ -5,7 +5,7 @@ public class Array {
         //array - collection of same datatype variables
         String[] friends ={ "Varun", "Ramu","Divya","Nikki"};
         // friend.length- it returns the lenth of an array
-
+        // if you want to replace an element in an array, just by pointing index to initialize with what you want.
         // for(int i=0;i<friends.length;i++){
         //     System.out.println(friends[i]);
         // }
