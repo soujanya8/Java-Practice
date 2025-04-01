@@ -1,4 +1,4 @@
-public class Objectexaplanation {
+public class ObjectExample{
 
     public static void main(String[] args){
         //Object = An real entity that holds data (attributes)
